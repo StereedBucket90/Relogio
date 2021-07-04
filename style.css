@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(154, 154, 255);
+    font: normal 16pt arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+    background-color: rgb(70, 70, 70);
+    width: 600px;
+    border-radius: 10px;
+    margin: auto;
+
+}
+
+section{
+    background-color: white;
+    width: 500px;
+    border-radius: 10px;
+    padding: 20px;
+    margin: auto;
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.562);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20pt;
+}
