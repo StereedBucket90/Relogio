@@ -1,2 +1,2 @@
 # Relogio
-Site que diz horas e muda cores dependendo do horario do dia
+Template  de site que mostra horas e  muda  cor de fundo dependendo do horario
